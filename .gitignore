@@ -1,1 +1,9 @@
 images/
+baseline_resnet18_best_macro_f1.pth
+baseline_resnet18_epoch1.pth
+baseline_resnet18_frozen_history.csv
+baseline_resnet18_frozen_history.parquet
+fine_tune_layer4_epoch2_selected_history.csv
+fine_tune_layer4_epoch2_selected_history.parquet
+resnet18_embeddings.pt
+resnet18_layer4_finetune_epoch2_selected.pth
